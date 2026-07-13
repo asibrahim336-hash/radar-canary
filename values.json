@@ -40,12 +40,12 @@
     }
   },
   "current_state": {
-    "price_a": "49.00",
+    "price_a": "43.12",
     "price_b": "120.00",
     "price_c": "19.99",
     "stock_b": "In stock",
     "promo_banner": "Summer Sale \u2014 10% off all orders over \u20ac100!",
     "product_d_visible": false
   },
-  "last_mutation": "sat"
+  "last_mutation": "mon"
 }
