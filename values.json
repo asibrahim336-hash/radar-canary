@@ -43,9 +43,9 @@
     "price_a": "43.12",
     "price_b": "120.00",
     "price_c": "20.99",
-    "stock_b": "In stock",
+    "stock_b": "Out of stock",
     "promo_banner": "Flash Deal \u2014 Free shipping on everything today only!",
     "product_d_visible": false
   },
-  "last_mutation": "wed"
+  "last_mutation": "thu"
 }
