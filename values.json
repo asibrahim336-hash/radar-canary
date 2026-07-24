@@ -45,7 +45,9 @@
     "price_c": "20.99",
     "stock_b": "Out of stock",
     "promo_banner": "Flash Deal \u2014 Free shipping on everything today only!",
-    "product_d_visible": false
+    "product_d_visible": true,
+    "price_d": "34.99",
+    "product_d_name": "Product D \u2014 Omega-3 Fish Oil"
   },
-  "last_mutation": "thu"
+  "last_mutation": "fri"
 }
